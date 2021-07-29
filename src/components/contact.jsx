@@ -41,7 +41,7 @@ export const Contact = (props) => {
       formData.append(`entry.${value.id}`, value.value);
     }
 
-    axios.post(`${config.cors}${config.formUrl}`, formData)
+    axios.post(`${config.formUrl}`, formData)
     .then((response) => {
       console.log('response', response);
       clearState();
