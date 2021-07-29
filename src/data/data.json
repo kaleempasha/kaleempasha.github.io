@@ -1,0 +1,121 @@
+{
+  "Header": {
+    "title": "MK Web",
+    "paragraph": ".Net Full Stack Developer",
+    "paragraph1": "Cloud Computing Development with Microsoft Azure and Amazon Web Services",
+    "paragraph2": "Freelance Web Developer based in Hyderabad, India. Highly experienced in designing & developing responsive Websites | Web Applications | Mobile Friendly."
+  },
+  "About": {
+    "paragraph": "Mohd Kaleem Pasha, holding good experience with software development in industry. Ready to work on Freelance project.",
+    "Why": [
+      ".Net Full Stack Developer",
+      "Certified Azure Developer",
+      "Certified AWS Developer",
+      "Kentico CMS Certified Developer"
+    ],
+    "Why2": []
+  },
+  "Services": [
+    {
+      "icon": "fa fa-code",
+      "name": "Website Development",
+      "text": "The web development process involves taking the graphical elements defined in the design process and coding them into a prefer framework."
+    },
+    {
+      "icon": "fa fa-lock",
+      "name": "Logo Design",
+      "text": "Our goal is to design a professional yet creative logo that reflects your company’s spirit and leaves a lasting, memorable effect."
+    },
+    {
+      "icon": "fa fa-cog",
+      "name": "App Design",
+      "text": "Our approach is to create an app design that strengthens your company’s brand while ensuring ease of use and simplicity for your audience."
+    },
+    {
+      "icon": "fa fa-desktop",
+      "name": "Responsive Website Design",
+      "text": "Having a responsive layout means that your website fluidly resizes for optimal viewing regardless of the screen size or device (e.g. iPhone, iPad)."
+    },
+    {
+      "icon": "fa fa-link",
+      "name": "SEO (Search Engine Optimisation)",
+      "text": "SEO is the practice of improving and promoting a website in order to increase the number of visitors it receives."
+    },
+    {
+      "icon": "fa fa-external-link",
+      "name": "Social Media Integration",
+      "text": "Social media integration enables your website to post updates to Facebook, displays a Twitter feed, and links to your social media accounts."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/mk.jpg",
+      "name": "Mohd Kaleem Pasha",
+      "job": "Site Owner"
+    }
+  ],
+  "Contact": {
+    "address": "Hyderabad, Telangana, India. ",
+    "phone": "+91 7306056345",
+    "email": "mkweb@outlook.com",
+    "facebook": "fb.com",
+    "twitter": "https://twitter.com/md_kaleempasha",
+    "youtube": "youtube.com",
+    "linkedIn": "https://in.linkedin.com/in/kaleem-pasha",
+    "gitHub": "https://github.com/kaleempasha"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
