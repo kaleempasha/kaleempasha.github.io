@@ -3,7 +3,7 @@ import axios from 'axios'
 
 
 const config = {
-  cors: 'https://kaleempasha.github.io/',
+  cors: 'https://cors.io/',
   formUrl: 'https://docs.google.com/forms/u/0/d/e/1FAIpQLScWJXRW_IPaS8IcY8eFFR7sveRPEQ3b--Utf0kuUo1JcvqiUw/formResponse' 
 };
 
@@ -41,7 +41,7 @@ export const Contact = (props) => {
       formData.append(`entry.${value.id}`, value.value);
     }
 
-    axios.post(`${config.formUrl}`, formData)
+    axios.post(`${config.cors}${config.formUrl}`, formData)
     .then((response) => {
       console.log('response', response);
       clearState();
@@ -55,7 +55,7 @@ export const Contact = (props) => {
     <div>
       <div id='contact'>
         <div className='container'>
-          <div className='col-md-8'>
+          <div className='col-md-8' style={{display:'none'}}>
             <div className='row'>
               <div className='section-title'>
                 <h2>Get In Touch</h2>
@@ -109,7 +109,7 @@ export const Contact = (props) => {
               </form>
             </div>
           </div>
-          <div className='col-md-3 col-md-offset-1 contact-info'>
+          <div className='col-md-12 col-md-offset-1 contact-info'>
             <div className='contact-item'>
               <h3>Contact Info</h3>
               <p>
